@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facebook Integration</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="facebook_app_id">2206641109434542</string>
+    <string name="fb_login_protocol_scheme">fb2206641109434542</string>
+    <string name="cancel_login">login is unsuccessful!</string>
+    <string name="error_login">Error in login!</string>
+
+</resources>
